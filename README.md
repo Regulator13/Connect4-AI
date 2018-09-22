@@ -12,3 +12,5 @@
 - 5 - Easy difficulty
 - 6 - Medium difficulty
 - 7- Hard (Slow) difficulty
+
+Also check out my checkers AI at [here](https://github.com/Regulator13/CheckersAI)
